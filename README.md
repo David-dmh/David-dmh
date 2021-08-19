@@ -1,6 +1,6 @@
-- 👋 Hi, I’m David
-- 🌱 I’m currently learning Data Science and Data Engineering :computer:
-- 📫 You can connect with me via [LinkedIn](https://www.linkedin.com/in/davidmherbert/)
+- Hi, I’m David 👋 
+- I’m currently learning Data Science and Data Engineering :computer:
+- Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/davidmherbert/) 📫
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-dmh&theme=gotham)
 
