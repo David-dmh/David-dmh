@@ -1,4 +1,4 @@
-- Hi I’m David 👋
+- Hi, I’m David 👋
 - Data Engineer :man_technologist:
 - Feel free to connect with [LinkedIn](https://www.linkedin.com/in/davidmherbert/) 📫
 
