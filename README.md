@@ -1,6 +1,6 @@
 - Hi I’m David 👋
 - Data Engineer :man_technologist:
-- Feel free to connect with [LinkedIn](https://www.linkedin.com/in/davidmherbert/) 📫
+- [LinkedIn](https://www.linkedin.com/in/davidmherbert/) 📫
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-dmh&theme=gotham)
 -->
