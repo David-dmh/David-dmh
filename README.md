@@ -1,5 +1,5 @@
 - Hi I’m David 👋
-- Data Engineer :man_technologist:
+- Consultant / Data Engineer :man_technologist:
 - [LinkedIn](https://www.linkedin.com/in/davidmherbert/) 📫
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-dmh&theme=gotham)
